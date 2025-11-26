@@ -10,6 +10,10 @@
 ---
 ## 📁 Структура проекта
 ```
+├── Router 
+  ├── _init_.py
+  ├── stats.py
+  └── tasks.py
 ├── .gitignore # Исключения для Git
 ├── database.py # Временная база данных (list of dict)
 ├── main.py # Основная логика приложения (эндпоинты)
